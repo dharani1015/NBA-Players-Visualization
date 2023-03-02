@@ -1,2 +1,2 @@
 # NBA-Players-Visualization
-Data visualization aids NBA managers and scouts in analyzing player stats. Radial charts compare multiple metrics for a player, while scatter plots and bar graphs help identify trends and patterns. Comparing players helps scouts draft accordingly and coaches can train them based on strengths and weaknesses.
+Data visualization is valuable for analyzing NBA player statistics and helps managers and scouts make informed decisions about signing and trading players. Radial charts and 1D/2D visualization techniques are effective in comparing multiple variables and identifying trends and patterns. Comparing players helps determine their ability to play in various conditions, and coaches can use this information to improve their performance.
